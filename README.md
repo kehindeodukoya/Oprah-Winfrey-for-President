@@ -1,1 +1,0 @@
-# Oprah-Winfrey-for-President
