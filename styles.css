@@ -1,0 +1,62 @@
+h1{
+        text-align: center;
+        color:red;
+    }
+ h2{
+        color:red;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 40px ;
+        background-image: url("https://sf.tac-cdn.net/images/products/large/TFWEB195.jpg?auto=webp&quality=80");
+        display: flex;
+        font-family: 'Mountains of Christmas', cursive;
+        border:4px solid red;        }
+p{
+        text-align: center;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+    }
+#header{
+        background-image: url("https://a.mytrend.it/prp/2018/07/748853/o.473142.jpg");  
+    }
+    img{
+        text-align: center;
+        background-image: url("https://cdn.pixabay.com/photo/2016/06/06/16/45/usa-1439858__340.jpg");  
+    }
+#donate{
+        background-image: url("https://www.abramsbooks.com/cover_images/0/9781419700590_s3.jpg");
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 0px 0;
+}
+#donate button {
+        width: 300px;   
+        height: 50px;
+        font-size: 20px;
+        background: red;
+        color: white;
+        border-radius: 5px;
+        border: solid white 3px;
+}
+#donate button:hover {
+        background: white;
+        color: black;
+}
+h3{
+        background-color:red;  
+        color:white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 40px ;
+        font-family: 'Lobster', cursive;
+        background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/O1OkL89/waving-usa-flag-animation_xk9hykv5__F0000.png");
+    }
+button{
+        font-family: 'Charmonman', cursive;
+}
